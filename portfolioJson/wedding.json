@@ -1,0 +1,17 @@
+[
+    {
+        "pid":"0",
+        "ptitle":"Story",
+        "psrc":"weddingWeb/weddingStory.jpg"
+    },
+    {
+        "pid":"1",
+        "ptitle":"Landing",
+        "psrc":"weddingWeb/weddingLanding.jpg"
+    },
+    {
+        "pid":"2",
+        "ptitle":"Gallery",
+        "psrc":"weddingWeb/weddingGallery.jpg"
+    }
+]
