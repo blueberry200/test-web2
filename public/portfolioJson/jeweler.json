@@ -1,0 +1,17 @@
+[
+    {
+        "pid":"0",
+        "ptitle":"Landing",
+        "psrc":"jewelerWeb/jewelerLanding.jpg"
+    },
+    {
+        "pid":"1",
+        "ptitle":"About",
+        "psrc":"jewelerWeb/jewelerAbout.jpg"
+    },
+    {
+        "pid":"2",
+        "ptitle":"Blog",
+        "psrc":"jewelerWeb/jewelerBlog.jpg"
+    }
+]
